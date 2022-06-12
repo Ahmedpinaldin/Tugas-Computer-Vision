@@ -7,4 +7,5 @@ link tugas 2 : https://github.com/Ahmedpinaldin/TugasComVis/tree/master/02_A7101
 link tugas 3 : https://github.com/Ahmedpinaldin/TugasComVis/tree/master/03_A710190120_Tugas_Segmentasi_Manipulasi
 link tugas 4 : https://github.com/Ahmedpinaldin/TugasComVis/tree/master/04_A710190120_Tugas_Annotations_dan_Enhancements
 link tugas 5 : https://github.com/Ahmedpinaldin/TugasComVis/tree/master/05_A710190120_Tugas_Arith_dan_Blending
-link tugas 6 :
+link tugas 6 : https://github.com/Ahmedpinaldin/TugasComVis/tree/master/06_A710190120_Tugas_Intro_Video_Grafis
+Link UTS     : https://github.com/Ahmedpinaldin/TugasComVis/tree/master/UTS_A710190120
